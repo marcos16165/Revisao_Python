@@ -1,2 +1,3 @@
 # Revisao_Python
-Revisão gral de Python 
+Revisão geral de Python 
+
